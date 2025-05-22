@@ -1,0 +1,1 @@
+This is a type of malware virus used only for testing in a virtual environment, we are not legally responsible if used for the wrong purpose, we leave the virus in source code form so that everyone can use it for learning, absolutely do not spread it outside !!!
